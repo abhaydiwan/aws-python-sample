@@ -38,6 +38,8 @@ service. If you run into 'Access Denied' errors while running this sample, pleas
 1. Log into the [AWS IAM Console](https://console.aws.amazon.com/iam/home)
 2. Navigate to the Users page.
 3. Find the AWS IAM user whose credentials you're using.
+
+samples
 4. Under the 'Permissions' section, attach the policy called 'AmazonS3FullAccess'
 5. Re-run the sample. Now your user should have the right permissions to run the sample.
 
